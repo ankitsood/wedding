@@ -104,7 +104,7 @@
 
             <div class="married_txt" data-bottom="opacity:0" data-center="opacity:1">
                 <h2>You're Invited</h2>
-                On the 22nd of Feb, 2097<br>
+                On the 22nd of Feb, 2019<br>
                 <b> Ankit Sood &amp; Hina Nehra</b><br>
                 are getting married in Mohali, Punjab.<br>
                 <a href="#rsvp" class="btn go">RSVP NOW</a>
